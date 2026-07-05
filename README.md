@@ -15,6 +15,13 @@
 - 本地存储：新增记录会保存到本地，下次打开仍可看到。
 - 响应式适配：按手机 H5 设计，适配常见手机宽度；桌面打开时以手机宽度居中展示。
 
+## 运行截图
+
+<p>
+  <img src="docs/screenshots/list-page.png" alt="跟进记录列表页" width="320" />
+  <img src="docs/screenshots/add-validation.png" alt="添加跟进记录校验状态" width="320" />
+</p>
+
 ## 技术选型
 
 - 框架：uni-app
