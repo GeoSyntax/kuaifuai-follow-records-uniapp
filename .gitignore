@@ -1,0 +1,10 @@
+node_modules/
+dist/
+unpackage/
+.hbuilderx/
+.DS_Store
+*.local
+*.zip
+*.zip.txt
+.impeccable.md
+yiyang_*/

@@ -1,0 +1,31 @@
+{
+  "pages": [
+    {
+      "path": "pages/follow/list",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "跟进记录列表",
+        "enablePullDownRefresh": true,
+        "onReachBottomDistance": 80,
+        "backgroundColor": "#f8f8f5"
+      }
+    },
+    {
+      "path": "pages/follow/add",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "添加跟进记录",
+        "backgroundColor": "#f8f8f5"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "跟进记录",
+    "navigationBarBackgroundColor": "#5b55d6",
+    "backgroundColor": "#f8f8f5",
+    "app-plus": {
+      "background": "#f8f8f5"
+    }
+  }
+}
